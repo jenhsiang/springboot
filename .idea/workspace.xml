@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70d61c3d-cd74-479f-b4b0-68742594ac6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/TumoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/annotation/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/aspect/LogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/config/MybatisPlusConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/config/ShiroConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/constants/CommonConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/constants/SiteConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/constants/enums/CommonEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/controller/BaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/exception/GlobalException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/handler/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/properties/QiniuProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/properties/ShiroProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/properties/SwaggerProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/properties/TumoProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/realm/AuthRealm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/utils/AddressUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/utils/HttpContextUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/utils/IPUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/utils/PasswordHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/utils/QueryPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/utils/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/common/utils/TreeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/ArticleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/CommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/LinkController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/LogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/LoginLogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/QiNiuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/TagController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/router/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/router/SiteRouterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/controller/router/SystemRouterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/ArticleCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/ArticleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/QiNiuEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/SysArticle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/SysCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/SysComment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/SysLink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/SysLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/SysLoginLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/SysTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/SysUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/dto/ArchivesWithArticle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/entity/dto/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/ArticleCategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/ArticleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/ArticleTagMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/CategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/CommentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/LinkMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/LogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/LoginLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/TagMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/ArticleCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/ArticleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/ArticleTagService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/LinkService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/LoginLogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/TagService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/ArticleCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/ArticleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/ArticleTagServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/CommentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/LinkServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/LogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/LoginLogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/TagServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/tycoding/system/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/ArticleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ArticleTagMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/ArticleTagMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/TagMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/TagMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/site/images/alipay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/site/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/site/images/wechat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/article/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/article/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/article/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/article/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/article/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/article/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/category/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/category/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/category/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/category/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/comment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/comment/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/link/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/link/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/link/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/link/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/log/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/log/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/qiniu/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/qiniu/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/tag/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/tag/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/page/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/page/tag/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/layout/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/layout/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/page/links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tumo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tumo.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/tycoding/admin/dto/PasswordHelperTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZNfYI9NRQ0xldHHjxz5DhYYQxk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TumoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tumo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="spring.john.JohnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70d61c3d-cd74-479f-b4b0-68742594ac6f" name="Default Changelist" comment="" />
+      <created>1584684518183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584684518183</updated>
+      <workItem from="1584684523753" duration="12475000" />
+      <workItem from="1584698863866" duration="6610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584685454114">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="437" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.812@0.23.1440.812" timestamp="1584685454114" />
+    <state x="494" y="275" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584701606069">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="494" y="275" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.816@0.23.1440.816" timestamp="1584701606069" />
+    <state x="458" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584704448450">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="458" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.812@0.23.1440.812" timestamp="1584687261193" />
+    <state x="458" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1584704448450" />
+    <state x="314" y="23" key="CommitChangelistDialog2" timestamp="1584704173548">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="314" y="23" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1584704173548" />
+    <state width="1398" height="159" key="GridCell.Tab.0.bottom" timestamp="1584705502027">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1584689922852" />
+    <state width="1455" height="160" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1584696197707" />
+    <state width="1398" height="159" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584705502027" />
+    <state width="1398" height="159" key="GridCell.Tab.0.center" timestamp="1584705502026">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1584689922851" />
+    <state width="1455" height="160" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1584696197706" />
+    <state width="1398" height="159" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1584705502026" />
+    <state width="1398" height="159" key="GridCell.Tab.0.left" timestamp="1584705502026">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1584689922851" />
+    <state width="1455" height="160" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1584696197706" />
+    <state width="1398" height="159" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1584705502026" />
+    <state width="1398" height="159" key="GridCell.Tab.0.right" timestamp="1584705502027">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1584689922851" />
+    <state width="1455" height="160" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1584696197707" />
+    <state width="1398" height="159" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1584705502027" />
+    <state width="1398" height="159" key="GridCell.Tab.1.bottom" timestamp="1584705502028">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1584689922853" />
+    <state width="1455" height="160" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1584696197708" />
+    <state width="1398" height="159" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584705502028" />
+    <state width="1398" height="159" key="GridCell.Tab.1.center" timestamp="1584705502028">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1584689922852" />
+    <state width="1455" height="160" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1584696197707" />
+    <state width="1398" height="159" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1584705502028" />
+    <state width="1398" height="159" key="GridCell.Tab.1.left" timestamp="1584705502027">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1584689922852" />
+    <state width="1455" height="160" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1584696197707" />
+    <state width="1398" height="159" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1584705502027" />
+    <state width="1398" height="159" key="GridCell.Tab.1.right" timestamp="1584705502028">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1584689922852" />
+    <state width="1455" height="160" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1584696197707" />
+    <state width="1398" height="159" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1584705502028" />
+    <state x="378" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584703375772">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="378" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.816@0.23.1440.816" timestamp="1584703375772" />
+    <state x="499" y="201" width="705" height="486" key="find.popup" timestamp="1584705361943">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="499" y="201" width="705" height="486" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1584705361943" />
+  </component>
+</project>
