@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.tycoding</groupId>
-    <artifactId>tumo</artifactId>
+    <groupId>spring.john</groupId>
+    <artifactId>john</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>tumo</name>
-    <description>tumo</description>
+    <name>john</name>
+    <description>john</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -230,7 +230,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>cn.tycoding.TumoApplication</mainClass>
+                    <mainClass>spring.john.JohnApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
